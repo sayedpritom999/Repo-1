@@ -40,7 +40,7 @@ nav {
   display: flex;
   justify-content: space-around;
   list-style: none;
-  color: #333;
+  color: blue;
   text-transform: uppercase;
   font-family: Roboto;
   font-weight: 700;

@@ -1,0 +1,186 @@
+html {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+}
+
+/* Section one */
+.Gfa {
+
+  background-color: #ffc038;
+  width: auto;
+
+  }
+
+.test {
+
+width: 1110px;
+margin: 0 auto;
+
+}
+header{
+    margin: 0 auto;
+  width: 1010px;
+
+}
+
+.logo_and_nav {
+  display: flex;
+  align-content: space-around;
+}
+
+
+nav {
+  margin-left: auto;
+  width: 690px;
+  }
+
+.nav_bar ul {
+
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  color: blue;
+  text-transform: uppercase;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 1.4rem;
+  flex-wrap: wrap;
+  margin-top: 80px;
+  margin-bottom: 0;
+
+}
+
+.nav_bar li {
+  margin-left: 6px;
+  margin-bottom: 0;
+  line-height: 20px;
+  align-items: left;
+  text-align: right;
+}
+
+#phn_no {
+  font-size: 12px;
+  font-weight: black;
+
+
+}
+
+#you_goT_a_line_height {
+  line-height: 20px;
+}
+
+.logo {
+  text-transform: uppercase;
+  font-family: roboto black;
+  color: #464646;
+  font-size: 2.6rem;
+  white-space: nowrap;
+  margin-top: 75px;
+
+
+  }
+
+#logo_1st_fr {
+  border: 3px solid #fff200;
+  padding: 0px 10px;
+  color: #fdfcfc;
+}
+
+.main_image_text {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: nowrap;
+   margin-top: 80px;
+   weight: 1010px;
+
+}
+
+.header_container {
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.header_container p {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 100;
+  color: white;
+  line-height: 21pt;
+  margin: 48px 0 0 0;
+}
+
+.Header_button {
+  color: white;
+  background-color: #464646;
+  border: none;
+  font-size: 1.6rem;
+  font-family: Roboto;
+  font-weight: regular;
+  display: flex;
+  align-items: center;
+  padding-left: 24px;
+  height: 51px;
+  padding-right: 15px;
+  margin-top: 34px;
+  width: 155px;
+  margin-bottom: 58px;
+  }
+
+#Header_button_image {
+  width: 27px;
+  height: auto;
+  margin-left: 12px;
+  transform: rotate(50deg);
+
+}
+
+H2 {
+  text-transform: uppercase;
+  font-size: 3.5rem;
+  font-family: Roboto;
+  color: #fdfcfc;
+  margin: 0;
+
+
+}
+
+.Header_image img {
+  width: 620px;
+  height: auto;
+  float: right;
+  margin-top: 57px;
+
+}
+
+#Header_image_arrow {
+  width: 398px;
+  height: auto;
+  position: absolute;
+  margin-right: 50px;
+  margin-left: -149px;
+  margin-top: -10px;
+}
+
+.circle {
+  float: right;
+  width: 40px;
+  margin: -92px 265px;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+.circles {
+  border-radius: 50%;
+  background-color: #464646;
+  width: 11px;
+  height: 11px;
+
+}
+
+.white {
+  background-color: #ffffff;
+}
